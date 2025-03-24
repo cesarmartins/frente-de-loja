@@ -1,2 +1,3 @@
-# frente-de-loja
-Projeto de Frente de Loja feito em NodeJs
+# Sistema Frente de Loja - Node.js + React + MySQL + DuckDB
+
+# Sistema para frente de loja com Docker rodando na AWS
